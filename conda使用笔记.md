@@ -120,6 +120,16 @@ conda install easydict
 
 
 
+#### 安装`pytesseract`
+
+```
+
+```
+
+
+
+
+
 安装`tensorboard`
 
 ```bash
